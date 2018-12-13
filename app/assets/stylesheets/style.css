@@ -1,0 +1,65 @@
+.navbar-default {
+    overflow: hidden;
+    background-color: #cfc2fc;
+    color:#A68CFF;
+}
+
+.container-fluid{
+    padding:0% 20% 0% 20%;
+}
+
+
+#myNavbar {
+    float: right;
+  }
+.navbar-default ul.navbar-nav :hover{
+      background-color: #A68CFF;
+      color:white;
+  }
+
+
+
+.button-text{
+    color:white;
+    
+}
+
+.navbar-brand{
+    color:black;
+}
+
+.btn-primary{
+    background-color: #cfc2fc;
+    color:white;
+    border-color: #A68CFF;
+}
+
+.btn-primary:hover{
+    background-color: #A68CFF;
+      color:white;
+}
+
+.btn-primary a{
+    color:white;
+}
+
+
+.navbar-default .navbar-nav > .active > a{
+    background-color: #6553a3;
+    color:white;
+}
+
+footer{
+    width:100%;
+    background-color: #A68CFF;
+    color:white;
+    font-weight:bold;
+    text-align:center;
+    position:fixed;    
+    bottom:0;          
+    left:0;    
+}
+
+.menu{
+    padding-left: 10%;
+}
